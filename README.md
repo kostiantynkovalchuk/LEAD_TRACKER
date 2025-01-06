@@ -36,10 +36,10 @@ LEAD TRACKER is a simple and efficient Chrome extension designed to help you sav
 ## Screenshots
 
 ### 1. Main Interface
-![Main Interface](path/to/main_interface.png)
+![Main Interface](main_interface.png)
 
 ### 2. Saved Leads
-![Saved Leads](path/to/saved_leads.png)
+![Saved Leads](saved_leads.png)
 
 ---
 
